@@ -1,0 +1,14 @@
+D:\Users\20241170150010\Desktop\Algoritimos\bin\Debug\net8.0\Algoritimos.exe
+D:\Users\20241170150010\Desktop\Algoritimos\bin\Debug\net8.0\Algoritimos.deps.json
+D:\Users\20241170150010\Desktop\Algoritimos\bin\Debug\net8.0\Algoritimos.runtimeconfig.json
+D:\Users\20241170150010\Desktop\Algoritimos\bin\Debug\net8.0\Algoritimos.dll
+D:\Users\20241170150010\Desktop\Algoritimos\bin\Debug\net8.0\Algoritimos.pdb
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\Algoritimos.AssemblyInfoInputs.cache
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\Algoritimos.AssemblyInfo.cs
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\Algoritimos.csproj.CoreCompileInputs.cache
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\Algoritimos.dll
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\refint\Algoritimos.dll
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\Algoritimos.pdb
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\Algoritimos.genruntimeconfig.cache
+D:\Users\20241170150010\Desktop\Algoritimos\obj\Debug\net8.0\ref\Algoritimos.dll
